@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carlulsoe
 - 👀 I’m interested in Rust, Distributed Systems, and Cryptology.
 - 🌱 I’m currently learning Cryptology, IoT
-{::comment} - 💞️ I’m looking to collaborate on ... {:/comment}
 - 📫 How to reach me ...
 
 <!---
