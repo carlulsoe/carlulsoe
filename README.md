@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @carlulsoe
-- 👀 I’m interested in Rust, Distributed Systems, and Cryptology.
-- 🌱 I’m currently learning Cryptology, IoT
-- 📫 How to reach me ...
+- 🌱 I’m currently working at netcompany as an IT consultant.
 
 <!---
 carlulsoe/carlulsoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
